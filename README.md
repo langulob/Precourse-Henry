@@ -1,2 +1,2 @@
-# Precourse-Henry
-Este es un repositorio nuevo del modulo 2 del precourse de henry
+este proyecto es una prueba de como crear un repositorio desde github
+
